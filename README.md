@@ -5,8 +5,7 @@ Shiny: SIR Modelling
 
 ## Description
 
-This Shiny app allows the user to play around with SIR epidemiology modelling of COVID-19 data by adjusting the infection rate $\beta$ and recovery rate $\gamma$, choosing from a multitude of countries and provinces for the initial values. The predicted incidence curve will be shown along with the observed incidences for a given country.
-
+This Shiny app allows the user to play around with SIR epidemiology modelling of COVID-19 data by adjusting the infection rate $\beta$ and recovery rate $\gamma$, choosing from a multitude of countries and provinces for the initial values. The predicted incidence curve will be shown along with the observed incidences for the given country.
 
 ## Data
 
