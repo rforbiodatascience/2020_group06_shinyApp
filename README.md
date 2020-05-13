@@ -2,11 +2,10 @@
 Shiny: SIR Modelling
 
 ## Sule Altintas, Sebastian Sbirna and Stanley Frederiksen
-<<<<<<< HEAD
 
 ## Description
 
-This Shiny app allows the user to play around with SIR epidemiology modelling of COVID-19 data.
+This Shiny app allows the user to play around with SIR epidemiology modelling of COVID-19 data by adjusting the infection rate $\beta$ and recovery rate $\gamma$, choosing from a multitude of countries and provinces for the initial values. The predicted incidence curve will be shown along with the observed incidences for a given country.
 
 
 ## Data
@@ -25,5 +24,4 @@ https://github.com/rforbiodatascience/2020_group06
   * __shiny__
   * __tidyverse__
   * __deSolve__
-=======
->>>>>>> 17b86317f063b54d6fae172310fc2d595d4fe65f
+
