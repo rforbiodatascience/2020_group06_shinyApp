@@ -1,0 +1,12 @@
+name: SIR_app
+title: SIR_app
+username:
+account: sule-altintas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2294440
+bundleId: 3143570
+url: https://sule-altintas.shinyapps.io/SIR_app/
+when: 1589397114.38699
+asMultiple: FALSE
+asStatic: FALSE

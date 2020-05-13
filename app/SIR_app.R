@@ -7,7 +7,7 @@ library(tidyverse)
 library(deSolve)
 
 # Load data --------------------------------------------------------------------
-df <- read_csv(file = "SIR_df.csv")
+df <- read_csv(file = "data/SIR_df.csv")
 
 df %>% filter(days_since_first >= 0)
 
