@@ -3,6 +3,7 @@ rm(list = ls())
 
 # Load libraries ---------------------------------------------------------------
 library(shiny)
+library(tidyverse)
 library(deSolve)
 
 # Load data --------------------------------------------------------------------
@@ -57,7 +58,7 @@ ui <- fluidPage(
 server <- function(input, output) {
 
   output$R0 <- renderText({
-    paste("Reproductive rate:", round(input$beta/input$gamma,2))
+    paste("Reproductive rate: (R0)", round(input$beta/input$gamma,2))
   })
 
   output$SIRplot <- renderPlot({
