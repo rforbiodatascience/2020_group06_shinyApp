@@ -2,6 +2,7 @@
 Shiny: SIR Modelling
 
 ## Sule Altintas, Sebastian Sbirna and Stanley Frederiksen
+<<<<<<< HEAD
 
 ## Description
 
@@ -24,3 +25,5 @@ https://github.com/rforbiodatascience/2020_group06
   * __shiny__
   * __tidyverse__
   * __deSolve__
+=======
+>>>>>>> 17b86317f063b54d6fae172310fc2d595d4fe65f
